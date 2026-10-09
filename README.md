@@ -6,8 +6,8 @@
 
 ```vars.py change```
 
-API_ID = int(os.environ.get("API_ID", ""))
-API_HASH = os.environ.get("API_HASH", "")
+API_ID = int(os.environ.get("API_ID", "24368576"))
+API_HASH = os.environ.get("API_HASH", "8968f5cc5fe0c95f25b7b25ff0d322f2")
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
 
 CREDIT = os.environ.get("CREDIT", "〱ＵＧ▕")
