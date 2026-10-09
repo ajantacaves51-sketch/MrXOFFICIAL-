@@ -6,15 +6,15 @@ API_ID = int(os.environ.get("API_ID", "24368576"))
 API_HASH = os.environ.get("API_HASH", "8968f5cc5fe0c95f25b7b25ff0d322f2")
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "8979465315:AAGMqWP1cJjZNwY73HzaUoBgAGUIsJz2c38")
 
-CREDIT = os.environ.get("CREDIT", "𓍯𝙎𝙪𝙟𝙖𝙡⚝")
+CREDIT = os.environ.get("CREDIT", "MrXOFFICIAL")
 # MongoDB Configuration
 DATABASE_NAME = os.environ.get("DATABASE_NAME", "UGxPRO")
 DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://sujalbot:sujalbot@cluster0.mnjoqfu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 MONGO_URL = DATABASE_URL  # For auth system
 
 # Owner and Admin Configuration
-OWNER_ID = int(os.environ.get("OWNER_ID", ""))
-ADMINS = [8458169280, 8383373235]  # dono admins id list me
+OWNER_ID = int(os.environ.get("OWNER_ID", "8688655530"))
+ADMINS = [8688655530, 8886258642]  # dono admins id list me
 
 
 # Channel Configuration
